@@ -7,7 +7,7 @@ on:
         description: 'Nhập code'
         required: true
       pincode:
-        description: '821990'
+        description: 'Nhập mã pin tuỳ ý (6 số)'
         required: true
   
 jobs:
